@@ -19,7 +19,7 @@ namespace LibraryKiosk
     /// defined in <see cref="IBinaryTreeNode{TNode,TValue}"/>.
     ///   </para></remarks>
     [DebuggerDisplay("Count = {Count}")]
-    internal abstract class BinaryTreeBase<TNode, TValue> : ICollection<TValue>, ICollection
+  public abstract class BinaryTreeBase<TNode, TValue> : ICollection<TValue>, ICollection
         where TNode : class, IBinaryTreeNode<TNode, TValue>
         where TValue : IComparable<TValue>
     {

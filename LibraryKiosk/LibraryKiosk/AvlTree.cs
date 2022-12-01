@@ -1,7 +1,8 @@
-﻿using System;
+﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace LibraryKiosk {
+namespace LibraryKiosk
+{
     /// <summary>
     /// AVL balanced tree.
     /// </summary>
@@ -9,18 +10,6 @@ namespace LibraryKiosk {
     /// AVL tree is a tree that is self balancing.
     /// </remarks>
     /// <typeparam name="T">Concrete type of the data stored in the AVL Tree</typeparam>
-    /// 
-    /// 
-
-
-    public class AvlTree
-    {
-        public AvlTree()
-        {
-        }
-    }
-
-
     public class AvlTree<T> : BinaryTreeBase<AvlTreeNode<T>, T>
         where T : IComparable<T>
     {

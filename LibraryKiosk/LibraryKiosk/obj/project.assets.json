@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mofeoluwajide-jegede/Projects/LibraryKiosk/LibraryKiosk/LibraryKiosk.csproj",
+      "projectUniqueName": "/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/LibraryKiosk.csproj",
       "projectName": "LibraryKiosk",
-      "projectPath": "/Users/mofeoluwajide-jegede/Projects/LibraryKiosk/LibraryKiosk/LibraryKiosk.csproj",
+      "projectPath": "/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/LibraryKiosk.csproj",
       "packagesPath": "/Users/mofeoluwajide-jegede/.nuget/packages/",
-      "outputPath": "/Users/mofeoluwajide-jegede/Projects/LibraryKiosk/LibraryKiosk/obj/",
+      "outputPath": "/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mofeoluwajide-jegede/.nuget/NuGet/NuGet.Config"

@@ -7,7 +7,7 @@ namespace LibraryKiosk
     /// <typeparam name="TNode">Type of the node.</typeparam>
     /// <typeparam name="TValue">Type of the value.</typeparam>
     /// <remarks></remarks>
-    internal interface IBinaryTreeNode<TNode, TValue>
+    public interface IBinaryTreeNode<TNode, TValue>
     {
         /// <summary>
         /// Gets or sets the left node reference.

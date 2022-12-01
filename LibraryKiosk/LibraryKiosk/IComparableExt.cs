@@ -4,7 +4,7 @@ namespace LibraryKiosk
     /// <summary>
     /// extensions for <see cref="IComparable"/>
     /// </summary>
-    internal static class IComparableExtensions
+    public static class IComparableExtensions
     {
         /// <summary>
         /// 	Determines whether the specified value is between the the defined minimum and maximum range (including those values).
